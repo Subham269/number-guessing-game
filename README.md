@@ -2,6 +2,8 @@
 
 My first JavaScript project! A simple browser-based guessing game where you try to guess a random number between 1-100.
 
+🔗 **[Live Demo](https://subham-number-guessing-game.netlify.app/)**
+
 ## 🎯 Features
 
 - Random number generation
